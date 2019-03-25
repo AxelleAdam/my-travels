@@ -5,6 +5,7 @@ const Travels = ({ destination, country, photo, distance }) => (
     <img src={photo} alt={destination} />
     <figcaption>
       <blockquote>{country}</blockquote>
+	<blockquote>{distance}</blockquote>
       <cite>{destination}</cite>
     </figcaption>
   </figure>
