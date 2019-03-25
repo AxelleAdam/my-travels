@@ -15,13 +15,13 @@ class App extends Component {
         <Travels
           country="Just a wonderful land, lost in pacific ocean"
           destination="New Zealand"
-	        distance="From Paris to Wellington - 18 974 km"
+	  distance="From Paris to Wellington - 18 974 km"
           photo="https://www.breakfree.com.au/Portals/0/GalleryImages/System/Locations/NewZealand/SouthIsland/Tekapo_-_image_courtesy_of_Sean_Scott.t76909.jpg"
         />
         <Travels
           country="Have you ever seen a red dragon ?"
           destination="Wales"
-	        distance="From Paris to Cardiff - 703,3 km"
+	  distance="From Paris to Cardiff - 703,3 km"
           photo="https://landlords.org.uk/sites/default/files/iStock-652176186.jpg"
         />
       </div>
